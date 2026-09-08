@@ -1,0 +1,8 @@
+command_id: 701.709.22162B
+test_cases:
+- expected_values:
+    LEXUS_ATF_THERMAL_DEGRAD_EST: 5197
+  response: 7090562162B144D
+- expected_values:
+    LEXUS_ATF_THERMAL_DEGRAD_EST: 5198
+  response: 7090562162B144E
