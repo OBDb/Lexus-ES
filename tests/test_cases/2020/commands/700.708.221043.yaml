@@ -1,0 +1,14 @@
+command_id: 700.708.221043
+test_cases:
+- expected_values:
+    LEXUS_EWP_RPM: 850
+    LEXUS_EWP_TARGET_VSS: 825
+  response: '708 05 62 10 43 21 22 '
+- expected_values:
+    LEXUS_EWP_RPM: 800
+    LEXUS_EWP_TARGET_VSS: 825
+  response: '708056210432120'
+- expected_values:
+    LEXUS_EWP_RPM: 1500
+    LEXUS_EWP_TARGET_VSS: 1500
+  response: 708056210433C3C
