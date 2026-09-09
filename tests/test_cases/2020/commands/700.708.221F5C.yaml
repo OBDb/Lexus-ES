@@ -1,0 +1,14 @@
+command_id: 700.708.221F5C
+test_cases:
+- expected_values:
+    LEXUS_EOT_V2_V2: 94
+  response: '708 04 62 1F 5C 86 '
+- expected_values:
+    LEXUS_EOT_V2_V2: 94
+  response: 70804621F5C86
+- expected_values:
+    LEXUS_EOT_V2_V2: 95
+  response: 70804621F5C87
+- expected_values:
+    LEXUS_EOT_V2_V2: 96
+  response: 70804621F5C88
