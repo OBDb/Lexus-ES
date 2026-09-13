@@ -1,0 +1,8 @@
+command_id: 700.708.222829
+test_cases:
+- expected_values:
+    LEXUS_ELECTRIC_THERMOSTAT_DUTY_RATIO: 0
+  response: '708 04 62 28 29 00 '
+- expected_values:
+    LEXUS_ELECTRIC_THERMOSTAT_DUTY_RATIO: 0
+  response: '7080462282900'
