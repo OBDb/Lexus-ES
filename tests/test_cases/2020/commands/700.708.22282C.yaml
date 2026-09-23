@@ -1,0 +1,8 @@
+command_id: 700.708.22282C
+test_cases:
+- expected_values:
+    LEXUS_COOLANT_VALVE_1_CLOSE: 1
+  response: '708 05 62 28 2C 01 01 '
+- expected_values:
+    LEXUS_COOLANT_VALVE_1_CLOSE: 1
+  response: 7080562282C0101

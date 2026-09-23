@@ -1,0 +1,14 @@
+command_id: 700.708.222848
+test_cases:
+- expected_values:
+    LEXUS_EOP_CONTROL_VALVE: 99.94501
+  response: 70805622848051E
+- expected_values:
+    LEXUS_EOP_CONTROL_VALVE: 566.93997
+  response: 708056228481D07
+- expected_values:
+    LEXUS_EOP_CONTROL_VALVE: 716.7049
+  response: 7080562284824B2
+- expected_values:
+    LEXUS_EOP_CONTROL_VALVE: 720.4433
+  response: '7080562284824E3'

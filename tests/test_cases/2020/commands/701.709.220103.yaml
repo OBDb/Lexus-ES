@@ -1,0 +1,29 @@
+command_id: 701.709.220103
+test_cases:
+- expected_values:
+    LEXUS_ODO: 104350
+  response: 709076201030101979E
+- expected_values:
+    LEXUS_ODO: 104351
+  response: 709076201030101979F
+- expected_values:
+    LEXUS_ODO: 104352
+  response: 70907620103010197A0
+- expected_values:
+    LEXUS_ODO: 104353
+  response: 70907620103010197A1
+- expected_values:
+    LEXUS_ODO: 104354
+  response: 70907620103010197A2
+- expected_values:
+    LEXUS_ODO: 104355
+  response: 70907620103010197A3
+- expected_values:
+    LEXUS_ODO: 104356
+  response: 70907620103010197A4
+- expected_values:
+    LEXUS_ODO: 104360
+  response: 70907620103010197A8
+- expected_values:
+    LEXUS_ODO: 104361
+  response: 70907620103010197A9
