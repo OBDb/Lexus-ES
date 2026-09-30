@@ -69,7 +69,7 @@ supported_commands_by_ecu:
   - 7C4.7CC.214C:ES_EVAP_TARG_T
   - 7C4.7CC.2153:ES_REGULATOR_P
   "7D0":
-  - 7D0.7D8.2162
+  - 7D0.7D8.2162:ES_PARKING_BRAKE
   "7DF":
   - 7DF.0104
   - 7DF.0106
