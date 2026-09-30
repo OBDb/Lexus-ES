@@ -1,0 +1,7 @@
+command_id: 750.758.2130|e=2A,ta=2A,fc=1
+test_cases:
+- expected_values:
+    ES_TP_SPARE_V1: 2.75862
+  response: |-
+    7582A10076130000000
+    7582A2100BD00000000
