@@ -1,0 +1,20 @@
+command_id: 701.709.221627
+test_cases:
+- expected_values:
+    ES_ATF_T_PAN: 94.375
+  response: '709056216278660'
+- expected_values:
+    ES_ATF_T_PAN: 95
+  response: '709056216278700'
+- expected_values:
+    ES_ATF_T_PAN: 97.5
+  response: '709056216278980'
+- expected_values:
+    ES_ATF_T_PAN: 98.125
+  response: 709056216278A20
+- expected_values:
+    ES_ATF_T_PAN: 98.75
+  response: 709056216278AC0
+- expected_values:
+    ES_ATF_T_PAN: 99.375
+  response: 709056216278B60

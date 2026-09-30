@@ -1,0 +1,23 @@
+command_id: 700.708.221089
+test_cases:
+- expected_values:
+    ES_EXHAUST_VVT_HOLD_LEARN_B1: 49.76249
+  response: '708 05 62 10 89 1F DB '
+- expected_values:
+    ES_EXHAUST_VVT_HOLD_LEARN_B1: 49.20109
+  response: 708056210891F7F
+- expected_values:
+    ES_EXHAUST_VVT_HOLD_LEARN_B1: 49.35365
+  response: 708056210891F98
+- expected_values:
+    ES_EXHAUST_VVT_HOLD_LEARN_B1: 49.73808
+  response: 708056210891FD7
+- expected_values:
+    ES_EXHAUST_VVT_HOLD_LEARN_B1: 49.76249
+  response: 708056210891FDB
+- expected_values:
+    ES_EXHAUST_VVT_HOLD_LEARN_B1: 49.95165
+  response: 708056210891FFA
+- expected_values:
+    ES_EXHAUST_VVT_HOLD_LEARN_B1: 50.15912
+  response: 70805621089201C

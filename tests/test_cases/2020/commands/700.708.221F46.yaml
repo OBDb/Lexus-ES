@@ -1,0 +1,26 @@
+command_id: 700.708.221F46
+test_cases:
+- expected_values:
+    ES_AMBIENT_T_700: 47
+  response: 70804621F4657
+- expected_values:
+    ES_AMBIENT_T_700: 49
+  response: 70804621F4659
+- expected_values:
+    ES_AMBIENT_T_700: 51
+  response: 70804621F465B
+- expected_values:
+    ES_AMBIENT_T_700: 52
+  response: 70804621F465C
+- expected_values:
+    ES_AMBIENT_T_700: 54
+  response: 70804621F465E
+- expected_values:
+    ES_AMBIENT_T_700: 57
+  response: 70804621F4661
+- expected_values:
+    ES_AMBIENT_T_700: 58
+  response: 70804621F4662
+- expected_values:
+    ES_AMBIENT_T_700: 64
+  response: 70804621F4668
