@@ -1,0 +1,8 @@
+command_id: 701.709.220103
+test_cases:
+- expected_values:
+    ES_ODO_V5: 25511
+  response: 70907620103020063A7
+- expected_values:
+    ES_ODO_V5: 25512
+  response: 70907620103020063A8

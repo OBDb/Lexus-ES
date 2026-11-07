@@ -1,0 +1,26 @@
+command_id: 700.708.2210CD
+test_cases:
+- expected_values:
+    ES_LFPS: 392.15
+  response: 708056210CD8F51
+- expected_values:
+    ES_LFPS: 394.35
+  response: 708056210CD8F67
+- expected_values:
+    ES_LFPS: 396.85
+  response: 708056210CD8F80
+- expected_values:
+    ES_LFPS: 397.55
+  response: 708056210CD8F87
+- expected_values:
+    ES_LFPS: 398.85
+  response: 708056210CD8F94
+- expected_values:
+    ES_LFPS: 401.95
+  response: 708056210CD8FB3
+- expected_values:
+    ES_LFPS: 403.65
+  response: 708056210CD8FC4
+- expected_values:
+    ES_LFPS: 410.55
+  response: 708056210CD9009

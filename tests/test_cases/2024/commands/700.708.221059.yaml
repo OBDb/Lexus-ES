@@ -1,0 +1,17 @@
+command_id: 700.708.221059
+test_cases:
+- expected_values:
+    ES_ACCEL_PEDAL: 0
+  response: |-
+    708100A621059285128
+    7082151000000000000
+- expected_values:
+    ES_ACCEL_PEDAL: 10.56362
+  response: |-
+    708100A621059386029
+    7082152070700000000
+- expected_values:
+    ES_ACCEL_PEDAL: 16.19742
+  response: |-
+    708100A621059406929
+    70821520B5C00000000

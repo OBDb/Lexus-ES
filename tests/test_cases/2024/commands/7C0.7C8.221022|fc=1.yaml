@@ -1,0 +1,23 @@
+command_id: 7C0.7C8.221022|fc=1
+test_cases:
+- expected_values:
+    ES_FLV: 35.96
+  response: 7C8056210220E0C
+- expected_values:
+    ES_FLV: 36.62
+  response: 7C8056210220E4E
+- expected_values:
+    ES_FLV: 37.41
+  response: 7C8056210220E9D
+- expected_values:
+    ES_FLV: 38.35
+  response: 7C8056210220EFB
+- expected_values:
+    ES_FLV: 39.34
+  response: 7C8056210220F5E
+- expected_values:
+    ES_FLV: 39.52
+  response: 7C8056210220F70
+- expected_values:
+    ES_FLV: 39.86
+  response: 7C8056210220F92

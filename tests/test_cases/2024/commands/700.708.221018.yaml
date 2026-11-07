@@ -1,0 +1,26 @@
+command_id: 700.708.221018
+test_cases:
+- expected_values:
+    ES_INJECTOR_PORT: 2.151
+  response: '708056210180867'
+- expected_values:
+    ES_INJECTOR_PORT: 2.587
+  response: 708056210180A1B
+- expected_values:
+    ES_INJECTOR_PORT: 2.815
+  response: 708056210180AFF
+- expected_values:
+    ES_INJECTOR_PORT: 2.825
+  response: 708056210180B09
+- expected_values:
+    ES_INJECTOR_PORT: 4.228
+  response: '708056210181084'
+- expected_values:
+    ES_INJECTOR_PORT: 4.369
+  response: '708056210181111'
+- expected_values:
+    ES_INJECTOR_PORT: 5.548
+  response: 7080562101815AC
+- expected_values:
+    ES_INJECTOR_PORT: 5.76
+  response: '708056210181680'

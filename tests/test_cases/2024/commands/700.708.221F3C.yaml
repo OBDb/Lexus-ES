@@ -1,0 +1,26 @@
+command_id: 700.708.221F3C
+test_cases:
+- expected_values:
+    ES_CAT_T_11: 446
+  response: 70805621F3C12FC
+- expected_values:
+    ES_CAT_T_11: 446.3
+  response: 70805621F3C12FF
+- expected_values:
+    ES_CAT_T_11: 459.2
+  response: 70805621F3C1380
+- expected_values:
+    ES_CAT_T_11: 478.6
+  response: 70805621F3C1442
+- expected_values:
+    ES_CAT_T_11: 480.9
+  response: 70805621F3C1459
+- expected_values:
+    ES_CAT_T_11: 575.3
+  response: 70805621F3C1809
+- expected_values:
+    ES_CAT_T_11: 582.8
+  response: 70805621F3C1854
+- expected_values:
+    ES_CAT_T_11: 723
+  response: 70805621F3C1DCE
