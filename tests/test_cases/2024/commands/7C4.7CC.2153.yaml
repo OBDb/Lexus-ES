@@ -1,0 +1,23 @@
+command_id: 7C4.7CC.2153
+test_cases:
+- expected_values:
+    ES_REGULATOR_P: 411.21
+  response: 7CC0361533B
+- expected_values:
+    ES_REGULATOR_P: 425.92
+  response: 7CC0361533C
+- expected_values:
+    ES_REGULATOR_P: 455.34
+  response: 7CC0361533E
+- expected_values:
+    ES_REGULATOR_P: 470.05
+  response: 7CC0361533F
+- expected_values:
+    ES_REGULATOR_P: 484.76
+  response: 7CC03615340
+- expected_values:
+    ES_REGULATOR_P: 499.47
+  response: 7CC03615341
+- expected_values:
+    ES_REGULATOR_P: 528.89
+  response: 7CC03615343

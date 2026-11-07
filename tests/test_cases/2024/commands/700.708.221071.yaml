@@ -1,0 +1,17 @@
+command_id: 700.708.221071
+test_cases:
+- expected_values:
+    ES_EXHAUST_VVT_TARGET_ANGLE_B1: 0
+  response: '708056210710000'
+- expected_values:
+    ES_EXHAUST_VVT_TARGET_ANGLE_B1: 10.99454
+  response: '708056210710466'
+- expected_values:
+    ES_EXHAUST_VVT_TARGET_ANGLE_B1: 18.50325
+  response: '708056210710767'
+- expected_values:
+    ES_EXHAUST_VVT_TARGET_ANGLE_B1: 39.4378
+  response: 708056210710FC7
+- expected_values:
+    ES_EXHAUST_VVT_TARGET_ANGLE_B1: 41.0489
+  response: 70805621071106C

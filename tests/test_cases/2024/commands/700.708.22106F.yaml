@@ -1,0 +1,17 @@
+command_id: 700.708.22106F
+test_cases:
+- expected_values:
+    ES_INTAKE_VVT_TARGET_ANGLE_B1: 7.63564
+  response: 7080562106F030E
+- expected_values:
+    ES_INTAKE_VVT_TARGET_ANGLE_B1: 10.44775
+  response: 7080562106F042E
+- expected_values:
+    ES_INTAKE_VVT_TARGET_ANGLE_B1: 11.24841
+  response: 7080562106F0480
+- expected_values:
+    ES_INTAKE_VVT_TARGET_ANGLE_B1: 20.74903
+  response: 7080562106F084D
+- expected_values:
+    ES_INTAKE_VVT_TARGET_ANGLE_B1: 29.99577
+  response: 7080562106F0C00

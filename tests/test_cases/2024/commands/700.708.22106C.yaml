@@ -1,0 +1,11 @@
+command_id: 700.708.22106C
+test_cases:
+- expected_values:
+    ES_DIST_SINCE_BAT_DISC: 10079
+  response: 7080562106C275F
+- expected_values:
+    ES_DIST_SINCE_BAT_DISC: 10080
+  response: 7080562106C2760
+- expected_values:
+    ES_DIST_SINCE_BAT_DISC: 10081
+  response: 7080562106C2761

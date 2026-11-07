@@ -1,0 +1,6 @@
+command_id: 700.708.221041
+test_cases:
+- expected_values:
+    ES_ECT_IGN: 5.625
+    ES_ECT_INIT: 6.25
+  response: 70805621041494A

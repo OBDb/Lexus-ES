@@ -1,0 +1,23 @@
+command_id: 700.708.22106A
+test_cases:
+- expected_values:
+    ES_FUEL_PUMP_DUTY_RATIO: 243.17073
+  response: 7080562106A0F94
+- expected_values:
+    ES_FUEL_PUMP_DUTY_RATIO: 244.39024
+  response: 7080562106A0FA8
+- expected_values:
+    ES_FUEL_PUMP_DUTY_RATIO: 244.81707
+  response: 7080562106A0FAF
+- expected_values:
+    ES_FUEL_PUMP_DUTY_RATIO: 247.80488
+  response: 7080562106A0FE0
+- expected_values:
+    ES_FUEL_PUMP_DUTY_RATIO: 247.92683
+  response: 7080562106A0FE2
+- expected_values:
+    ES_FUEL_PUMP_DUTY_RATIO: 252.56098
+  response: 7080562106A102E
+- expected_values:
+    ES_FUEL_PUMP_DUTY_RATIO: 255.18293
+  response: 7080562106A1059

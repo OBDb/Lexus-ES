@@ -1,0 +1,17 @@
+command_id: 7C4.7CC.214C
+test_cases:
+- expected_values:
+    ES_EVAP_TARG_T: 1
+  response: 7CC04614C8064
+- expected_values:
+    ES_EVAP_TARG_T: 1.34
+  response: 7CC04614C8086
+- expected_values:
+    ES_EVAP_TARG_T: 1.43
+  response: 7CC04614C808F
+- expected_values:
+    ES_EVAP_TARG_T: 1.53
+  response: 7CC04614C8099
+- expected_values:
+    ES_EVAP_TARG_T: 1.72
+  response: 7CC04614C80AC
