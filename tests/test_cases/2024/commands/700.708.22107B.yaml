@@ -1,6 +1,14 @@
 command_id: 700.708.22107B
 test_cases:
 - expected_values:
+    ES_EOT: 13
+  response: |-
+    708102262107B000005
+    70821B30100007F5083
+    708223680117F5180EE
+    70823803A800200005E
+    7082435464630300002
+- expected_values:
     ES_EOT: 24
   response: |-
     708102262107B000006
