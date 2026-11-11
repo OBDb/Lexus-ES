@@ -50,6 +50,30 @@ test_cases:
     7582A21BD0000000000
 - expected_values:
     ES_TP_FL_V1: 2.7069
+    ES_TP_FR_V1: 2.81034
+    ES_TP_RL_V1: 2.63793
+    ES_TP_RR_V1: 2.67241
+  response: |-
+    7582A10076130BAC0B6
+    7582A21B80000000000
+- expected_values:
+    ES_TP_FL_V1: 2.7069
+    ES_TP_FR_V1: 2.81034
+    ES_TP_RL_V1: 2.63793
+    ES_TP_RR_V1: 2.68966
+  response: |-
+    7582A10076130BAC0B6
+    7582A21B90000000000
+- expected_values:
+    ES_TP_FL_V1: 2.7069
+    ES_TP_FR_V1: 2.82759
+    ES_TP_RL_V1: 2.65517
+    ES_TP_RR_V1: 2.68966
+  response: |-
+    7582A10076130BAC1B7
+    7582A21B90000000000
+- expected_values:
+    ES_TP_FL_V1: 2.7069
     ES_TP_FR_V1: 2.82759
     ES_TP_RL_V1: 2.7069
     ES_TP_RR_V1: 2.75862

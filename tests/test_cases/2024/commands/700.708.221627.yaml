@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     ES_ATF_T_PAN_V3: 87.5
   response: 708056216277F80
+- expected_values:
+    ES_ATF_T_PAN_V3: 90.625
+  response: 7080562162782A0
