@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     ES_ENG_ODO: 25904
   response: '7080762010302006530'
+- expected_values:
+    ES_ENG_ODO: 25913
+  response: '7080762010302006539'
+- expected_values:
+    ES_ENG_ODO: 25914
+  response: 708076201030200653A

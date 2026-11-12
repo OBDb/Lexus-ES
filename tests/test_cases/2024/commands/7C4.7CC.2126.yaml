@@ -1,8 +1,14 @@
 command_id: 7C4.7CC.2126
 test_cases:
 - expected_values:
+    ES_ECT: 89.15
+  response: 7CC036126FB
+- expected_values:
     ES_ECT: 89.5
   response: 7CC036126FC
+- expected_values:
+    ES_ECT: 89.85
+  response: 7CC036126FD
 - expected_values:
     ES_ECT: 90.55
   response: 7CC036126FF
