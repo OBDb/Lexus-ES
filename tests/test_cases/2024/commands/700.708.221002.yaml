@@ -1,32 +1,11 @@
 command_id: 700.708.221002
 test_cases:
 - expected_values:
-    ES_12V_V_700: 13.62789
-  response: 708056210022B9C
-- expected_values:
-    ES_12V_V_700: 13.67672
-  response: 708056210022BC4
-- expected_values:
-    ES_12V_V_700: 13.7109
-  response: 708056210022BE0
-- expected_values:
-    ES_12V_V_700: 13.72067
-  response: 708056210022BE8
-- expected_values:
-    ES_12V_V_700: 13.73043
-  response: 708056210022BF0
-- expected_values:
-    ES_12V_V_700: 13.73532
-  response: 708056210022BF4
+    ES_12V_V_700: 13.60348
+  response: 708056210022B88
 - expected_values:
     ES_12V_V_700: 13.74508
   response: 708056210022BFC
 - expected_values:
-    ES_12V_V_700: 13.75973
-  response: 708056210022C08
-- expected_values:
-    ES_12V_V_700: 13.76461
-  response: 708056210022C0C
-- expected_values:
-    ES_12V_V_700: 13.78903
-  response: 708056210022C20
+    ES_12V_V_700: 13.74996
+  response: 708056210022C00
