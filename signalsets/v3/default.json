@@ -299,7 +299,7 @@
   ]},
 { "hdr": "700", "rax": "708", "cmd": {"22": "1621"}, "freq": 1, "dbgfilter": { "to": 2019, "years": [2021, 2022, 2023], "from": 2025 },
   "signals": [
-    {"id": "ES_GEAR_700", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Gear"}
+    {"id": "ES_GEAR_700", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Gear", "suggestedMetric": "gear"}
   ]},
 { "hdr": "700", "rax": "708", "dbg": true, "cmd": {"22": "1622"}, "freq": 1,
   "signals": [
@@ -517,7 +517,7 @@
   "signals": [
     {"id": "ES_TAIL_CANCEL",       "path": "Control",   "fmt": {"bix": 2,  "len": 1, "max": 1, "unit": "offon" }, "name": "Tail cancel"},
     {"id": "ES_P_SEATBELT_BUCKLE", "path": "Seatbelts", "fmt": {"bix": 8,  "len": 1, "max": 1, "unit": "offon" }, "name": "P-seatbelt buckle"},
-    {"id": "ES_CHECK_ENGINE",      "path": "Control",   "fmt": {"bix": 15, "len": 1, "max": 1, "unit": "offon" }, "name": "Check engine"}
+    {"id": "ES_CHECK_ENGINE",      "path": "Control",   "fmt": {"bix": 15, "len": 1, "max": 1, "unit": "offon" }, "name": "Check engine",      "suggestedMetric": "checkEngineLightOn"}
   ]},
 { "hdr": "7C0", "rax": "7C8", "dbg": true, "cmd": {"21": "13"}, "freq": 1,
   "signals": [
