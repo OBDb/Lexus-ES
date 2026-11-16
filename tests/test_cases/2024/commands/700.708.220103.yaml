@@ -4,8 +4,8 @@ test_cases:
     ES_ENG_ODO: 25511
   response: 70807620103020063A7
 - expected_values:
-    ES_ENG_ODO: 25512
-  response: 70807620103020063A8
-- expected_values:
     ES_ENG_ODO: 26118
   response: '7080762010302006606'
+- expected_values:
+    ES_ENG_ODO: 26310
+  response: 70807620103020066C6
