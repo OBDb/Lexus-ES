@@ -1,29 +1,38 @@
 command_id: 701.709.220103
 test_cases:
 - expected_values:
-    ES_ODO_V5: 104350
+    ES_ODO_V5_RAW: 104350
+    ES_ODO_V5_UNIT: KM
   response: 709076201030101979E
 - expected_values:
-    ES_ODO_V5: 104351
+    ES_ODO_V5_RAW: 104351
+    ES_ODO_V5_UNIT: KM
   response: 709076201030101979F
 - expected_values:
-    ES_ODO_V5: 104352
+    ES_ODO_V5_RAW: 104352
+    ES_ODO_V5_UNIT: KM
   response: 70907620103010197A0
 - expected_values:
-    ES_ODO_V5: 104353
+    ES_ODO_V5_RAW: 104353
+    ES_ODO_V5_UNIT: KM
   response: 70907620103010197A1
 - expected_values:
-    ES_ODO_V5: 104354
+    ES_ODO_V5_RAW: 104354
+    ES_ODO_V5_UNIT: KM
   response: 70907620103010197A2
 - expected_values:
-    ES_ODO_V5: 104355
+    ES_ODO_V5_RAW: 104355
+    ES_ODO_V5_UNIT: KM
   response: 70907620103010197A3
 - expected_values:
-    ES_ODO_V5: 104356
+    ES_ODO_V5_RAW: 104356
+    ES_ODO_V5_UNIT: KM
   response: 70907620103010197A4
 - expected_values:
-    ES_ODO_V5: 104360
+    ES_ODO_V5_RAW: 104360
+    ES_ODO_V5_UNIT: KM
   response: 70907620103010197A8
 - expected_values:
-    ES_ODO_V5: 104361
+    ES_ODO_V5_RAW: 104361
+    ES_ODO_V5_UNIT: KM
   response: 70907620103010197A9
