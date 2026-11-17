@@ -1,11 +1,14 @@
 command_id: 700.708.220103
 test_cases:
 - expected_values:
-    ES_ENG_ODO: 25511
+    ES_ENG_ODO_RAW: 25511
+    ES_ENG_ODO_UNIT: MI
   response: 70807620103020063A7
 - expected_values:
-    ES_ENG_ODO: 26118
+    ES_ENG_ODO_RAW: 26118
+    ES_ENG_ODO_UNIT: MI
   response: '7080762010302006606'
 - expected_values:
-    ES_ENG_ODO: 26315
+    ES_ENG_ODO_RAW: 26315
+    ES_ENG_ODO_UNIT: MI
   response: 70807620103020066CB
