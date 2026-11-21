@@ -4,8 +4,8 @@ test_cases:
     ES_ATF_T_PAN_V3: 8.75
   response: 7080562162730C0
 - expected_values:
-    ES_ATF_T_PAN_V3: 25
-  response: '708056216274100'
+    ES_ATF_T_PAN_V3: 10
+  response: '708056216273200'
 - expected_values:
     ES_ATF_T_PAN_V3: 26.875
   response: '7080562162742E0'
