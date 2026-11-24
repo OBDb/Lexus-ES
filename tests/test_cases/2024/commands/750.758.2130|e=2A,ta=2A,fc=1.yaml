@@ -15,6 +15,12 @@ test_cases:
     7582A100761300000AB
     7582A21000000000000
 - expected_values:
+    ES_TP_FL_V1: 2.31034
+    ES_TP_RR_V1: 2.43103
+  response: |-
+    7582A10076130A30000
+    7582A21AA0000000000
+- expected_values:
     ES_TP_FL_V1: 2.39655
     ES_TP_RL_V1: 2.48276
     ES_TP_RR_V1: 2.51724
@@ -29,13 +35,6 @@ test_cases:
   response: |-
     7582A10076130AAB5AF
     7582A21B00000000000
-- expected_values:
-    ES_TP_FL_V1: 2.62069
-    ES_TP_FR_V1: 2.77586
-    ES_TP_RR_V1: 2.68966
-  response: |-
-    7582A10076130B5BE00
-    7582A21B90000000000
 - expected_values:
     ES_TP_FL_V1: 2.67241
     ES_TP_FR_V1: 2.81034
