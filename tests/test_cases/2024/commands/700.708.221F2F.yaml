@@ -1,8 +1,8 @@
 command_id: 700.708.221F2F
 test_cases:
 - expected_values:
-    ES_FLI: 20.78431
-  response: 70804621F2F35
+    ES_FLI: 14.11765
+  response: 70804621F2F24
 - expected_values:
     ES_FLI: 92.15686
   response: 70804621F2FEB
