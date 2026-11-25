@@ -13,6 +13,6 @@ test_cases:
     ES_ENG_ODO_UNIT: MI
   response: 70807620103020066CB
 - expected_values:
-    ES_ENG_ODO_RAW: 26492
+    ES_ENG_ODO_RAW: 26631
     ES_ENG_ODO_UNIT: MI
-  response: 708076201030200677C
+  response: '7080762010302006807'
